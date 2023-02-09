@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Algoan as a Data Engineer.
+- 🌱 I’m currently training for GCP Professional Data Engineer certification.
+- 📫 How to reach me: theo.kergutuil@gmail.com or [LinkedIn](https://www.linkedin.com/in/theokergutuil/).
+
 <!--
 **LeKer29/LeKer29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
