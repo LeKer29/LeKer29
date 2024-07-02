@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Algoan as a Data Engineer.
-- 🌱 I’m currently training for GCP Professional Data Engineer certification.
+- 🔭 I’m currently working for Opensee as a Data Engineer in NYC.
+- 🌱 I’m currently training my devops and data engineer skills.
 - 📫 How to reach me: theo.kergutuil@gmail.com or [LinkedIn](https://www.linkedin.com/in/theokergutuil/).
 
 <!--
