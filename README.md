@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for Opensee as a Data Engineer in NYC.
+- 🔭 I’m currently working for Seyna as a Senior Data Engineer in Paris.
 - 🌱 I’m currently training my devops and data engineer skills.
 - 📫 How to reach me: theo.kergutuil@gmail.com or [LinkedIn](https://www.linkedin.com/in/theokergutuil/).
 
